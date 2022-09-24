@@ -1,4 +1,3 @@
-# modelagem-ecommerce
 Desafio Bootcamp Dio - Modelagem de um ecommerce
 
  *** Projeto Conceitual de Banco de Dados - E-commerce ***
